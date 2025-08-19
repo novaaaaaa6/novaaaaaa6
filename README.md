@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SkyGuy29
-- 👀 Two year mission (Sept 2025-Sept 2027) for the Church of Jesus Christ of Latter-Day saints, then aiming for a CS degree
+- 👋 Hi, call me Sky.
+- 👀 Currently planning on a year mission for the Church of Jesus Christ of Latter-Day saints, then aiming for a CS degree
 - 🌱 I’m currently learning how to be a half-decent programmer (in C++ for now)
   - Two-time SFML aracade game recreation project leader for our high school programming classes (Aero Fighters and Joust)
-- 📫 The best way to contact me right now is through Discord (@skyguy.29)
+- 📫 The best way to contact me right now is through Discord (@sky.does.not.exist)
 - 👍 Thanks for reading, have a good day :D
